@@ -1,0 +1,1 @@
+PS C:\Users\Student> Write-Host ( Get-ChildItem C:\Users\Student\Desktop\Vibeesh| Measure-Object ).Count
